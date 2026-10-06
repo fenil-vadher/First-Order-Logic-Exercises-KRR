@@ -62,7 +62,7 @@ formulas(assumptions).
 
 %% A2: "Some reading is homework."
 
-        exists x (Reading(x) & Homework(x))
+        exists x (Reading(x) & Homework(x)).
 
 
 end_of_list.
